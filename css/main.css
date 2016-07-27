@@ -4,7 +4,7 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
-#firstsection {
+.bluegradient {
     min-height: 150px;
     position: relative;
     background: linear-gradient(270deg, #2b90d9, #9baec8);
@@ -82,4 +82,8 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+.fp-tableCell {
+    vertical-align: top;
 }
