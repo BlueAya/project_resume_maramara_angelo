@@ -1,5 +1,9 @@
 /* First Section */
 
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
 #firstsection {
     min-height: 200px;
     position: relative;
