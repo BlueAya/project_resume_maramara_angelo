@@ -78,6 +78,8 @@ p {
     margin-top: 1em;
 }
 
+/* Remove */
+
 footer {
     position: fixed;
     bottom: 0;
@@ -105,4 +107,9 @@ dd {
 
 dd + dt {
     margin-top: 1em;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
 }
