@@ -71,7 +71,7 @@
     content: attr(data-content);
     overflow:hidden;
     pointer-events: none;
-    color: #ecf0f1;
+    color: #2b90d9;
 }
 .vertical:after {
     display:block;
@@ -84,7 +84,7 @@
     content: attr(data-content);
     overflow:hidden;
     pointer-events: none;
-    color: #bdc3c7;
+    color: #9baec8;
 }
 .vertical-tri {
     position:relative;

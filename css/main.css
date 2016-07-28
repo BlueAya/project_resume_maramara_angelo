@@ -58,6 +58,10 @@ p {
     text-align: center;
 }
 
+.nomarg {
+    margin-top: 0;
+}
+
 .profpic {
     max-width: 200px;
     border-radius: 50%;
