@@ -3,6 +3,17 @@ body {
     line-height: 1.5;
 }
 
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
 .bluegradient {
     min-height: 150px;
     position: relative;
@@ -40,15 +51,17 @@ body {
     }
 } */
 
-h1 {
+h1,
+h2 {
     margin: 0;
     margin-top: 4em;
 }
 
-h1.center {
+h1.center,
+h2.center {
     width: 100%;
+    font-size: 2em;
 }
-
 
 h1,
 h2,
